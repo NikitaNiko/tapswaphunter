@@ -1,0 +1,2 @@
+# tapswaphunter
+Autoclicker for telegram
